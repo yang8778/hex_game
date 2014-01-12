@@ -1,4 +1,5 @@
 Hex: Implement of a 11 * 11 hex game 
+
 Author: Zhao Yang (zhaoyang8778@gmail.com)
 
 == Description ==
@@ -18,8 +19,7 @@ connection wins the game.
 
 == Runnig info ==
 
-Usage: 
-<command> easy|normal|hard(choose the degree of game difficulty)
+< command > easy|normal|hard 
 
 == version == 
  

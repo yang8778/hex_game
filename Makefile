@@ -9,10 +9,10 @@ TARGET=./test
 all:$(TARGET)
 
 OBJS= \
-	  graph.o \
-	  board.o \
-      player.o\
-      main.o
+	graph.o \
+	board.o \
+	player.o\
+	main.o
 
 $(TARGET):$(OBJS)
 	g++ -o $(TARGET) $(LDFLAGS) -o $@ $^ $(LIBS)

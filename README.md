@@ -18,10 +18,10 @@ connection wins the game.
 
 e.g:Computer win the game by forming a complete path between north and south firstly.
 
-****************************************************
-* Computer *  O  * connects North-South, moves 1st *
-*    Human *  X  * connects West-East              *
-****************************************************
+* ***************************************************
+ Computer *  O  * connects North-South, moves 1st *
+    Human *  X  * connects West-East              *
+* ***************************************************
 
   A  B  C  D  E  F  G  H  I  J  K 
 
@@ -51,7 +51,7 @@ e.g:Computer win the game by forming a complete path between north and south fir
 
 == Runnig info ==
 
-Usage: <command> easy|normal|hard
+Usage: < command > easy|normal|hard
 easy|normal|hard choose the degree of game difficulty
 
 == version == 
